@@ -44,10 +44,10 @@ Mine cryptocurrency using your computer’s resources
 Install malware or spyware
 
 # 🧹 Suspicious Extensions Removed
-** Extension Name	   <t>       Reason for Removal ** <br>
-"Easy PDF Converter"    <t>	High permissions + poor reviews<br>
-"Video Downloader Pro"	<t>  Unknown source, excessive permissions<br>
-"Coupon Searcher"	  <t>      Injected ads and tracked browsing activity<br>
+** Extension Name	   &nsbp       Reason for Removal ** <br>
+"Easy PDF Converter"   &nsbp	High permissions + poor reviews<br>
+"Video Downloader Pro"	&nsbp  Unknown source, excessive permissions<br>
+"Coupon Searcher"	  &nsbp      Injected ads and tracked browsing activity<br>
 
 # 📄 Summary
 Removing unused or suspicious browser extensions significantly improves browser speed, security, and privacy. Regular extension reviews should be part of your security hygiene.
